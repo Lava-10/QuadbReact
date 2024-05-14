@@ -1,3 +1,3 @@
-# Make sure you have node.js installed
+# Make sure you have npm and react installed
 # Download the zip or clone the repository
-# run npm install and run npm start
+# Run npm install and run npm start
